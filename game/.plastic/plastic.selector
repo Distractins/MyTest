@@ -1,0 +1,4 @@
+repository "游戏@ssl://wechat_os_qy029rs37io37z6bdma7nwpm4@sh02-plasticscm.unity.cn:8787"
+  path "/"
+    br "/main"
+    co "/main"
